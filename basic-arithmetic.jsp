@@ -28,7 +28,7 @@
     <br>
     <blockquote>
       <code>
-        <table border="1">
+        <table border="1>
           <thead>
         <td><b>EL Expression</b></td>
         <td><b>Result</b></td>
