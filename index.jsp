@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 
 <html>
   <head>
@@ -8,7 +9,7 @@
     
     <br>
     <blockquote>
-      <img src="bg.jpg" align="right" border="0"></a>
+      <img alt="" src="bg.jpg" align="right" border="0"></a>
     </blockquote>
   </body>
 </html>
